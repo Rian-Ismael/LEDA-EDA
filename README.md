@@ -1,2 +1,2 @@
 # LEDA-EDA
-Algoritmos
+Scripts carried out in the discipline of LEDA.
